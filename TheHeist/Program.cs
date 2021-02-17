@@ -55,6 +55,7 @@ namespace TheHeist
             var counter = 0;
             var success = 0;
             var fail = 0;
+
             while (int.Parse(numOfScenarios) > counter)
             {
                 var teamSkillLevel = 0;
